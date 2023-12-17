@@ -1,7 +1,2 @@
-Read INSTRUCTIONS.MD for instructions.
-
-//////////////////////////////
-
-    Terminal (by weedzone)
-
-//////////////////////////////
+# Downloads
+Downloads are not available at this time
