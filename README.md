@@ -1,2 +1,2 @@
-# Downloads
-Downloads are not available at this time
+# Info
+[Download](https://github.com/bludmas/weedzoneterminal/releases/tag/python)https://github.com/bludmas/weedzoneterminal/releases/tag/python
