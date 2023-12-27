@@ -1,4 +1,1 @@
-# Information
-[Download](https://github.com/bludmas/weedzoneterminal/releases/tag/python)
-
-Terminal is a program made by weedzone. Read INSTRUCTIONS.MD to learn on how to use it
+# Due to trajons detected in the exe file that was builded with pyinstaller, this project has been discontinued.
